@@ -1,6 +1,27 @@
 body{
+  background-color:black;
   font-family: 'Arimo', sans-serif;
 }
 h1{
+  color:white;
+  display:inline-block;
+  padding: 9px;
+  text-align: center;
+  border-radius: 15px;
+  background: linear-gradient( 90deg, #d0fcfd 30%, #0cccfd );
+  text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
   font-family: 'Righteous', serif;
+}
+p{
+  color:#acacac;
+}
+a{
+  color:#00acd5;
+}
+.center{
+  text-align: center;
 }
