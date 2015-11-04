@@ -1,7 +1,5 @@
 body{
   background-color:black;
-  font-family: 'Arimo', sans-serif;
-  color:#acacac;
 }
 h1{
   color:white;
@@ -17,11 +15,15 @@ h1{
     1px 1px 0 #000;
   font-family: 'Righteous', serif;
 }
-p{
+p, h2, li{
   color:#acacac;
+  font-family: 'Arimo', sans-serif;
 }
 a{
   color:#00acd5;
+}
+li li{
+  color:red;
 }
 .center{
   text-align: center;
