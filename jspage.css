@@ -46,3 +46,9 @@ textarea:focus,
 select:focus {
   border: 1px solid #28c8ef;
   outline: 0; }
+.answer{
+  padding: 0;
+  margin-top: 0;
+  font-size: 192pt;
+  font-weight: 600;
+}
